@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'voiceService'" />
-    <option name="defaultScopeName" value="Project 'voiceService'" />
+    <option name="customScope" value="Directory '... [order]'" />
+    <option name="defaultScopeName" value="Directory '... [order]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'voiceService'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [order]'" />
   </component>
 </application>
