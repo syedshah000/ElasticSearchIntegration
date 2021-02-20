@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'NoorClinic'" />
-    <option name="defaultScopeName" value="Project 'NoorClinic'" />
+    <option name="customScope" value="File '.../itec3030/assignments/a1/sensors/thermoset/ThermoSetX19/ThermosetX19.java [assignment1_attachments]'" />
+    <option name="defaultScopeName" value="File '.../itec3030/assignments/a1/sensors/thermoset/ThermoSetX19/ThermosetX19.java [assignment1_attachments]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'NoorClinic'" />
+    <option name="SEARCH_SCOPE" value="File '.../itec3030/assignments/a1/sensors/thermoset/ThermoSetX19/ThermosetX19.java [assignment1_attachments]'" />
   </component>
 </application>
