@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../Ex2 jar files/NewTempSensorDevice.jar [Itec3030]'" />
-    <option name="defaultScopeName" value="File '.../Ex2 jar files/NewTempSensorDevice.jar [Itec3030]'" />
+    <option name="customScope" value="File '.../OldTempSensorAdapter.java [Assignment2-Attachments]'" />
+    <option name="defaultScopeName" value="File '.../OldTempSensorAdapter.java [Assignment2-Attachments]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../Ex2 jar files/NewTempSensorDevice.jar [Itec3030]'" />
+    <option name="SEARCH_SCOPE" value="File '.../OldTempSensorAdapter.java [Assignment2-Attachments]'" />
   </component>
 </application>
